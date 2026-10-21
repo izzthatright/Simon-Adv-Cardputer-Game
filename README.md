@@ -1,6 +1,8 @@
 **#SimonADV v0.4**
 for cardputer ADV,
 
+Have not tested download on m5burner, .bin works fine if uploaded to sd card and installed using launcher. 
+
 Ver 0.4
     -Implimented keyboard input for highscore
     -fixed volume issue, now you can adjust it before game. 
